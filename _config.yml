@@ -1,5 +1,5 @@
 name: Awesome Research Group
-url: https://trustworthyml-uom.github.io/home
+url: https://trustworthyml-uom.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
