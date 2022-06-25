@@ -4,7 +4,7 @@ title: A Project
 description: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
   varius. Pellentesque habitant morbi tristique senectus et netus et malesuada
-  fames ac turpis egestas.
+  la la la la.
 
 people:
   - storm
