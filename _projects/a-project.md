@@ -9,7 +9,7 @@ description: |
 people:
   - prof-a
   - prof-b
-  - prof-c
+  - profx
   - collab-a
   - madushika
 
