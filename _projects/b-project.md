@@ -1,5 +1,5 @@
 ---
-title: A Project
+title: Explainable Artificial Intelligence for Smart City Applications.
 
 description: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
@@ -7,14 +7,14 @@ description: |
   ba ba ba ba.
 
 people:
-  - storm
+  - prof-a
+  - collab-a
+  - madushika
+  - prof-b
   - profx
-  - grad-b
-  - scott
-  - wolverine
 
 layout: project
-last-updated: 2015-05-05
+last-updated: 2022-05-01
 ---
 
 Proin massa augue, eleifend non ultricies eget, feugiat ut nisl. Fusce at
