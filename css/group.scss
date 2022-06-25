@@ -85,6 +85,11 @@ ul.news {
     max-width: 50%;
 }
 
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #096c86;
+}
+
 section {
     margin-bottom: 2em;
 }
