@@ -2,7 +2,7 @@
 title: Explainable Artificial Intelligence for Smart City Applications.
 
 description: |
-With the rapid development of Internet of Things (IoT) architectures, we find many interesting applications enhancing our day-to-day lives, such as smart cities, wearable devices, and industrial automation.
+ With the rapid development of Internet of Things (IoT) architectures, we find many interesting applications enhancing our day-to-day lives, such as smart cities, wearable devices, and industrial automation.
 
 people:
   - prof-a
