@@ -2,26 +2,21 @@
 title: Explainable Artificial Intelligence for Smart City Applications.
 
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit blandit
-  varius. Pellentesque habitant morbi tristique senectus et netus et malesuada
-  fames ac turpis egestas.
+With the rapid development of Internet of Things (IoT) architectures, we find many interesting applications enhancing our day-to-day lives, such as smart cities, wearable devices, and industrial automation. Such IoT applications utilize the expressive power of Artificial Intelligence (AI) techniques, particularly Deep Neural Networks (DNNs), to provide improved functionality and user experience. For instance, state-of-the-art Human Activity Recognition (HAR) Systems in smart city applications are powered by Deep Learning techniques.
+
+Despite the impressive performance, state-of-the-art AI techniques come at the cost of interpretability. Humans cannot comprehend how these AI techniques, such as DNNs, transform the input data into the output they provide. Since IoT applications directly interact with the public and may be deployed for mission-critical domains, it is vital to explain the decisions made by AI systems in those applications. Further, such explanations must be understandable to all stakeholders irrespective of AI or computer science literacy (e.g., elders taken care of by remote monitoring systems) to make IoT applications trustworthy and increase their adaptation in the real world. In this project, we develop techniques to explain the decisions of AI systems for smart city applications. 
 
 people:
   - prof-a
-  - prof-b
-  - profx
   - collab-a
   - madushika
+  - prof-b
+  - profx
 
 layout: project
 last-updated: 2022-05-01
 ---
 
-Proin massa augue, eleifend non ultricies eget, feugiat ut nisl. Fusce at
-aliquet justo, id elementum lacus. Praesent eleifend tempus molestie. Nunc
-vulputate sed tortor a ultrices. Nullam blandit hendrerit nisi, at suscipit
-augue ultricies quis. Nulla tincidunt rhoncus nisl sed consectetur. Phasellus
-dapibus, leo in varius tempus, nibh velit tincidunt lacus, ut porta eros ex et
-eros. Ut diam purus, sagittis vitae cursus eu, molestie eget turpis. Sed
-consectetur magna in posuere faucibus. Morbi nibh eros, blandit ut vehicula ac,
-pellentesque ut urna.
+With the rapid development of Internet of Things (IoT) architectures, we find many interesting applications enhancing our day-to-day lives, such as smart cities, wearable devices, and industrial automation. Such IoT applications utilize the expressive power of Artificial Intelligence (AI) techniques, particularly Deep Neural Networks (DNNs), to provide improved functionality and user experience. For instance, state-of-the-art Human Activity Recognition (HAR) Systems in smart city applications are powered by Deep Learning techniques.
+
+Despite the impressive performance, state-of-the-art AI techniques come at the cost of interpretability. Humans cannot comprehend how these AI techniques, such as DNNs, transform the input data into the output they provide. Since IoT applications directly interact with the public and may be deployed for mission-critical domains, it is vital to explain the decisions made by AI systems in those applications. Further, such explanations must be understandable to all stakeholders irrespective of AI or computer science literacy (e.g., elders taken care of by remote monitoring systems) to make IoT applications trustworthy and increase their adaptation in the real world. In this project, we develop techniques to explain the decisions of AI systems for smart city applications. 
