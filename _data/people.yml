@@ -3,36 +3,40 @@ prof-a:
     display_name: "Dr. Sandareka Wickramanayake"
     webpage: "http://sandareka.github.io/"
     role: faculty
+    image: /img/people/Photo.jpg
 
 prof-b:
     display_name: "Prof. Dulani Meedeniya"
     webpage: "https://sites.google.com/site/dameedeniya/"
     role: faculty
+    image: /img/people/Prof.Dulani.jpg
 
 profx:
     display_name: "Prof. Indika Perera"
     webpage: "https://www.linkedin.com/in/indika-perera-2aa7955/?originalSubdomain=lk"
     role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
+    image: /img/people/Prof.Indika.jpg
 
 madushika:
     display_name: "Madhushika Sewwandi"
     webpage: "https://www.linkedin.com/in/madushika-sewwandi-924a7690/"
     role: grad
-    image: /img/people/storm.png
+    image: /img/people/madushika.jpeg
 
 sameera:
     display_name: "Sameera Nandasiri"
     webpage: "https://www.linkedin.com/in/sameeranandasiri/?originalSubdomain=lk"
     role: grad
+    image: /img/people/sameera.jpg
 
 collab-a:
     display_name: "Dr. Sanka Rasnayake, NUS"
     webpage: "https://www.comp.nus.edu.sg/cs/people/sanka/"
     role: collab
+    image: /img/people/sanka.jpeg
 
 collab-b:
     display_name: "Dr. Dileepa Fernando, NTU"
     webpage: "https://www.linkedin.com/in/fernandodileepa/?originalSubdomain=sg"
     role: collab
+    image: /img/people/Dr.Dileepa.jpeg
