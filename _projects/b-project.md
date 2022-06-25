@@ -17,28 +17,6 @@ layout: project
 last-updated: 2022-05-01
 ---
 
-Proin massa augue, eleifend non ultricies eget, feugiat ut nisl. Fusce at
-aliquet justo, id elementum lacus. Praesent eleifend tempus molestie. Nunc
-vulputate sed tortor a ultrices. Nullam blandit hendrerit nisi, at suscipit
-augue ultricies quis. Nulla tincidunt rhoncus nisl sed consectetur. Phasellus
-dapibus, leo in varius tempus, nibh velit tincidunt lacus, ut porta eros ex et
-eros. Ut diam purus, sagittis vitae cursus eu, molestie eget turpis. Sed
-consectetur magna in posuere faucibus. Morbi nibh eros, blandit ut vehicula ac,
-pellentesque ut urna.
+With the rapid development of Internet of Things (IoT) architectures, we find many interesting applications enhancing our day-to-day lives, such as smart cities, wearable devices, and industrial automation. Such IoT applications utilize the expressive power of Artificial Intelligence (AI) techniques, particularly Deep Neural Networks (DNNs), to provide improved functionality and user experience. For instance, state-of-the-art Human Activity Recognition (HAR) Systems in smart city applications are powered by Deep Learning techniques.
 
-Maecenas scelerisque ut enim non convallis. Mauris ut nisl vitae mi dictum
-mollis. Pellentesque iaculis lacinia nisl viverra laoreet. Integer ac lacus quis
-elit varius mollis et ultrices tortor. Aliquam id dolor cursus, sagittis arcu
-tincidunt, scelerisque nisi. Morbi scelerisque feugiat mi in faucibus. Maecenas
-suscipit aliquet est et efficitur. Nullam sed purus nec nulla placerat ultrices
-ac at ipsum. Mauris a imperdiet eros.
-
-Aenean malesuada tellus nulla, ut ultrices purus dictum et. Nunc non eleifend
-nulla, ut luctus nulla. Nulla et accumsan odio. Fusce libero nisl, rutrum ac
-risus sit amet, interdum feugiat eros. Morbi semper scelerisque magna vel
-malesuada. Curabitur in blandit orci. Cras eu tincidunt odio. Sed consectetur
-nunc purus, id pharetra felis fermentum vitae. Sed rhoncus lacus lacus. Aenean a
-ante et quam viverra pharetra interdum id ligula. Vestibulum lobortis ipsum ac
-risus sagittis, non dapibus metus finibus. Quisque efficitur felis sed felis
-luctus, non egestas ex dapibus. Sed pharetra gravida augue, id posuere nunc
-fringilla eget.
+Despite the impressive performance, state-of-the-art AI techniques come at the cost of interpretability. Humans cannot comprehend how these AI techniques, such as DNNs, transform the input data into the output they provide. Since IoT applications directly interact with the public and may be deployed for mission-critical domains, it is vital to explain the decisions made by AI systems in those applications. Further, such explanations must be understandable to all stakeholders irrespective of AI or computer science literacy (e.g., elders taken care of by remote monitoring systems) to make IoT applications trustworthy and increase their adaptation in the real world. In this project, we develop techniques to explain the decisions of AI systems for smart city applications.
