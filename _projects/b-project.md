@@ -8,6 +8,7 @@ people:
   - prof-a
   - collab-a
   - madushika
+  - sameera
   - prof-b
   - profx
 
