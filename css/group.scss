@@ -90,6 +90,13 @@ ul.news {
     background-color: #096c86;
 }
 
+a {
+    color: #096c86;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
 section {
     margin-bottom: 2em;
 }
