@@ -2,7 +2,7 @@
 title: Explainable Artificial Intelligence for Smart City Applications.
 
 description: |
-With the rapid development of Internet of Things (IoT) architectures, we find many interesting applications enhancing our day-to-day lives, such as smart cities, wearable devices, and industrial automation. Such IoT applications utilize the expressive power of Artificial Intelligence (AI) techniques, particularly Deep Neural Networks (DNNs), to provide improved functionality and user experience. For instance, state-of-the-art Human Activity Recognition (HAR) Systems in smart city applications are powered by Deep Learning techniques.
+With the rapid development of Internet of Things (IoT) architectures, we find many interesting applications enhancing our day-to-day lives, such as smart cities, wearable devices, and industrial automation.
 
 people:
   - prof-a
